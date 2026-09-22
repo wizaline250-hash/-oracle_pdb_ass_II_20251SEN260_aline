@@ -98,7 +98,7 @@ integrity are non-negotiable in database administration work.
  
 ## 6. Submission Details
  
-- **Repository Link:** `[[insert your GitHub repository URL here]](https://github.com/wizaline250-hash/-oracle_pdb_ass_II_20251SEN260_aline`
+- **Repository Link:** `insert your GitHub repository URL here]](https://github.com/wizaline250-hash/-oracle_pdb_ass_II_20251SEN260_aline`
 - **PDB Name Created:** `uw_pdb_20251SEN260`
 - **Issues Encountered:** Yes — see "Challenges Faced and Solutions" above (all resolved)
 ---
