@@ -66,14 +66,7 @@ DATAFILES`. A final query against `V$PDBS` confirmed the PDB no longer
 existed (no rows returned).
  
 **Screenshots:** see `screenshots/pdb_deletion/`
- 
-### Task 3 — OEM Dashboard Monitoring
- 
-Oracle Enterprise Manager (OEM) was used to view the status of the CDB and
-its pluggable databases, confirming the environment was healthy and the
-created PDB was visible and reachable.
- 
-**Screenshots:** see `screenshots/oem_dashboard/`
+
  
 ### Task 4 — Documentation & Reporting
  
